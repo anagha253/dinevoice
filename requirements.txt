@@ -1,0 +1,6 @@
+streamlit>=1.38
+python-dotenv>=1.0
+elevenlabs>=1.9
+google-genai>=1.0
+sounddevice>=0.4
+soundfile>=0.12
